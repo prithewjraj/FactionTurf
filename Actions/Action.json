@@ -1,35 +1,11 @@
 {
 "action":"RIGHT",
  "name":"a;)",
-"action":"RIGHT",
+"action":"DOWN",
  "name":"c;)"
- "action":"UP",
- "name":"c;)"
- "action":"UP",
+"action":"DOWN",
  "name":"c;)"
  "action":"RIGHT",
- "name":"c;)"
- "action":"RIGHT",
- "name":"c;)"
- "action":"RIGHT",
- "name":"c;)"
- "action":"UP",
- "name":"c;)"
- "action":"UP",
- "name":"c;)"
- "action":"LEFT",
- "name":"c;)"
- "action":"LEFT",
- "name":"c;)"
- "action":"RIGHT",
- "name":"c;)"
- "action":"DOWN",
- "name":"c;)"
- "action":"DOWN",
- "name":"c;)"
- "action":"RIGHT",
- "name":"c;)"
- "action":"DOWN",
  "name":"c;)"
  "action":"DOWN",
  "name":"c;)"
