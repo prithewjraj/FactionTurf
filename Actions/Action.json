@@ -21,5 +21,17 @@
  "name":"c;)"
  "action":"LEFT",
  "name":"c;)"
+ "action":"RIGHT",
+ "name":"c;)"
+ "action":"DOWN",
+ "name":"c;)"
+ "action":"DOWN",
+ "name":"c;)"
+ "action":"RIGHT",
+ "name":"c;)"
+ "action":"DOWN",
+ "name":"c;)"
+ "action":"DOWN",
+ "name":"c;)"
 }
 
